@@ -1,16 +1,33 @@
 ## Hi there 👋
+<h1 align="center">Sy<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+<img src="https://a.top4top.io/p_3285uiy2s1.jpg" />
+</p>
 
-<!--
-**septyannn/septyannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+- 👨‍💻 My name is Sycodee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working on Open-Source Projects  
+ 
+- 🔒 Passionate about Cybersecurity & Data Protection  
+
+- 📚 Lifelong Learner | 💡 Always exploring new tech  
+
+- 🌍 Contributor to Open-Source Projects  
+
+- 🌱 Learning and growing every day!  
+
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">Secrett</p>
+
+-  I just Newbie ><
+
+- 📫 How to reach me  [`Whatsapp`](https://wa.me/6281294888613?text=Permisiii,)
+
+- ⚡ My hobby is Sleep# myself
+
