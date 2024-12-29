@@ -20,10 +20,9 @@
 
 </p>
 
-##🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools:
 - 💻 Languages: `Python`, `JavaScript`, `PHP`
 - ⚙️ Tools: `Git`, `Docker`, `Node.js`, `Laravel`
 
-- 
 ## 📫 How to reach me:
 - 📧 Email: xsycode002@gmail.com
