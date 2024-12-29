@@ -20,14 +20,10 @@
 
 </p>
 
+##🛠️ Technologies & Tools
+- 💻 Languages: `Python`, `JavaScript`, `PHP`
+- ⚙️ Tools: `Git`, `Docker`, `Node.js`, `Laravel`
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">Secrett</p>
-
--  I just Newbie ><
-
-- 📫 How to reach me  [`Whatsapp`](https://wa.me/6281294888613?text=Permisiii,)
-
-- ⚡ My hobby is Sleep# myself
-
+- 
+## 📫 How to reach me:
+- 📧 Email: xsycode002@gmail.com
