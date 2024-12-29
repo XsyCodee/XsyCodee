@@ -7,8 +7,8 @@
 
 - 👨‍💻 My name is xsyyy
 
-- 💼 Currently working on Open-Source Projects  
- 
+- 💼 Currently working on Network Operation Center
+  
 - 🔒 Passionate about Cybersecurity & Data Protection  
 
 - 📚 Lifelong Learner | 💡 Always exploring new tech  
