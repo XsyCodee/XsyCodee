@@ -10,13 +10,11 @@
 
 ## 🚀 About Me
 
-- 💼 Currently working on Network Operation Center
+- 💼 Currently working on ...
   
 - 🔒 Passionate about Cybersecurity & Data Protection  
 
 - 📚 Lifelong Learner | 💡 Always exploring new tech  
-
-- 🌍 Contributor to Open-Source Projects  
 
 - 🌱 Learning and growing every day!  
 
