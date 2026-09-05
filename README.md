@@ -12,7 +12,7 @@
 
 - 💼 Currently working on ...
   
-- 🔒 Passionate about Cybersecurity & Data Protection  
+- 🔒 Passionate about Cybersecurity - Red Teams
 
 - 📚 Lifelong Learner | 💡 Always exploring new tech  
 
