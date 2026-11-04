@@ -4,7 +4,7 @@
 
 I build and break infrastructure. Currently running a small ISP and a
 colocation data center operation in Indonesia — which means I spend my days
-on MikroTik, Cisco, TR-069 fleets, and the software that keeps them talking
+on MikroTik, Cisco, System Admin, and the software that keeps them talking
 to each other.
 
 ---
@@ -25,7 +25,7 @@ to each other.
 ## 🛠 Technologies & Tools
 
 **Languages**
-`Python` · `JavaScript` · `PHP` · `Go` · `TypeScript` · `Bash`
+`Python` · `JavaScript` · `PHP` · `Go` · `TypeScript` · 
 
 **Web & Backend**
 `Laravel` · `Next.js` · `Node.js` · `Prisma` · `PostgreSQL` · `MySQL`
